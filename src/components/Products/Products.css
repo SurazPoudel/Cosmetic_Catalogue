@@ -1,0 +1,86 @@
+/* Products.css */
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mainContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .product-card {
+    width: 18rem;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .phone-img {
+    height: 200px; /* Fixed height to maintain consistent card sizes */
+    width: 100%; /* Ensures the image stretches to fill the width */
+    object-fit: contain; /* Ensures the entire image is visible, no cropping */
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
+  .card-body-custom {
+    padding: 15px;
+  }
+  
+  .model-Container {
+    margin-bottom: 10px;
+  }
+  
+  .price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .stock-status {
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .stock-status.in-stock {
+    color: green;
+  }
+  
+  .stock-status.limited-stock {
+    color: orange;
+  }
+  
+  .stock-status.out-of-stock {
+    color: red;
+  }
+  
+  .d-flex {
+    justify-content: center;
+  }
+  
+  button {
+    width: 40px;
+    height: 40px;
+  }
+  
+  button:disabled {
+    opacity: 0.5;
+  }
+  
+  .card-body-custom .btn-dark {
+    margin-top: 15px;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s ease-in-out;
+  }
+  
