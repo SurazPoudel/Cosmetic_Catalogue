@@ -1,82 +1,65 @@
-import React, { useState } from "react";
-import "./Products.css";
-import { phonesData } from "./Product.data";
-import Button from "react-bootstrap/Button";
-import Card from "react-bootstrap/Card";
-import "bootstrap/dist/css/bootstrap.min.css";
+import React, { useState } from 'react';
+import { phonesData } from './Product.data';
+import './Products.css';
 
-function Products() {
-  const [items, setItems] = useState(phonesData);
+const Products = () => {
+  const [searchTerm, setSearchTerm] = useState('');
 
-  const decQtry = (id) => {
-    setItems(items.map((item) =>
-      item.id === id && item.qty > 1 ? { ...item, qty: item.qty - 1 } : item
-    ));
-  };
-
-  const incQty = (id) => {
-    setItems(items.map((item) =>
-      item.id === id ? { ...item, qty: item.qty + 1 } : item
-    ));
-  };
-
-  const getStockStatus = (qty) => {
-    if (qty === 0) return "Out of Stock";
-    if (qty <= 5) return "Limited Stock";
-    return "In Stock";
-  };
+  const filteredProducts = phonesData.filter(product =>
+    product.model.toLowerCase().includes(searchTerm.toLowerCase())
+  );
 
   return (
     <>
-      <div className="header shadow">
-        <h1>Cosmetic Wholesale</h1>
+      <div className="header">
+        <h2>Our Products</h2>
       </div>
-      <main>
-        <div className="mainContainer">
-          {items.map((item) => (
-            <Card className="product-card" key={item.id}>
-              <Card.Img
-                variant="top"
+
+      <div className="search-bar">
+        <input
+          type="text"
+          className="search-input"
+          placeholder="Search products..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+        />
+      </div>
+
+      <div className="mainContainer">
+        <div className="product-container">
+          {filteredProducts.map((product) => (
+            <div className="product-card" key={product.id}>
+              <img
+                src={`/Products/assets/${product.image}`}
+                alt={product.model}
                 className="phone-img"
-                src={require(`${item.image}`)}
               />
-              <Card.Body className="card-body-custom">
-                <div className="model-Container">
-                  <Card.Title className="mb-2">{item.model}</Card.Title>
-                </div>
-
-                <div className="disc-container">
-                  <Card.Text>{item.desc}</Card.Text>
-                </div>
-
-                <h5 className="price">
-                  Price: <span>RS.{item.price}</span>
-                </h5>
-
-                <div className="stock-status">
-                  <span>{getStockStatus(item.qty)}</span>
-                </div>
-
-                <div className="d-flex align-items-center mb-3">
-                  <Button variant="dark" className="m-2 px-3" onClick={() => decQtry(item.id)}>
-                    -
-                  </Button>
-                  {item.qty}
-                  <Button variant="dark" className="m-2 px-3" onClick={() => incQty(item.id)}>
-                    +
-                  </Button>
-                </div>
-
-                <Button variant="dark" className="w-100">
-                  Buy Now
-                </Button>
-              </Card.Body>
-            </Card>
+              <div className="card-body-custom">
+                <h5 className="product-title">{product.model}</h5>
+                <p className="product-desc">{product.desc}</p>
+                <p className="price">Rs. {product.price}</p>
+                <p
+                  className={`stock-status ${
+                    product.qty === 0
+                      ? 'out-of-stock'
+                      : product.qty < 5
+                      ? 'limited-stock'
+                      : 'in-stock'
+                  }`}
+                >
+                  {product.qty === 0
+                    ? 'Out of Stock'
+                    : product.qty < 5
+                    ? 'Limited Stock'
+                    : 'In Stock'}
+                </p>
+              </div>
+            </div>
           ))}
         </div>
-      </main>
+      </div>
     </>
   );
-}
+};
 
 export default Products;

@@ -1,17 +1,17 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import Products from './components/Products/Products';
-import NavBar from './components/Products/nav'; 
+import Products from './components/Products/Products';  // Correct path to Products.js
+import NavBar from './components/Products/nav';  // Correct path to nav.js
 
 function App() {
   return (
-    <div className='App'>
+    <div className="App">
       <div className="sticky-top">
-        <NavBar/>
+        <NavBar />
       </div>
-      <container>
-        <Products/>
-      </container>
+      <div className="container">
+        <Products />
+      </div>
     </div>
   );
 }
