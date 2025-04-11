@@ -352,7 +352,7 @@ export const phonesData = [
     model: "Micro Blusher",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "5.jpg",
+    image: "s1.jpg",
     qty: 0,
   },
 
@@ -361,7 +361,7 @@ export const phonesData = [
     model: "Sunisa Foundation Cream",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "Sunisa.jpeg",
+    image: "s2.jpg",
     qty: 6,
   },
   {
@@ -369,7 +369,7 @@ export const phonesData = [
     model: "Fogg Body Perfume",
     desc: "Experience the luxury of Fogg Perfume, lasting freshness in every spray.",
     price: 1199,
-    image: "fogg.jpeg",
+    image: "s.jpg",
     qty: 0,
   },
   {
@@ -377,7 +377,7 @@ export const phonesData = [
     model: "Nivea Body Lotion",
     desc: "Softens and nourishes your skin, leaving it smooth and hydrated Nivea body lotion.",
     price: 1099,
-    image: "Nivea Body.jpeg",
+    image: "s4.jpg",
     qty: 1,
   },
   {
@@ -385,7 +385,7 @@ export const phonesData = [
     model: "Parachute Oil",
     desc: "Provides deep nourishment, leaving your hair and skin soft and healthy parachute oil.",
     price: 1099,
-    image: "parachuteoil.jpeg",
+    image: "s5.jpg",
     qty: 1,
   },
   {
@@ -393,7 +393,7 @@ export const phonesData = [
     model: "Sunisa Foundation Cream",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "lip.jpg",
+    image: "wipes.jpg",
     qty: 6,
   },
   {
