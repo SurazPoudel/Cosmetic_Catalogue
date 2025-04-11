@@ -261,7 +261,7 @@ export const phonesData = [
   },
   {
     id: 32,
-    model: "Nivea Shaving Foam",
+    model: "Lakme 9To5 2 in 1  Matte Liquid Lipstick",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n2.jpg",
@@ -270,7 +270,7 @@ export const phonesData = [
 
   {
     id: 33,
-    model: "Micro Blusher",
+    model: "Face Tech Matte Liqud Lipstick",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n3.jpg",
@@ -278,7 +278,7 @@ export const phonesData = [
   },
   {
     id: 34,
-    model: "Micro Blusher",
+    model: "Face Tech Nail Polish",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n4.jpg",
@@ -287,7 +287,7 @@ export const phonesData = [
 
   {
     id: 35,
-    model: "Micro Blusher",
+    model: "Liquid Lipstic Matte Color",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n5.jpg",
@@ -296,7 +296,7 @@ export const phonesData = [
 
   {
     id: 36,
-    model: "Micro Blusher",
+    model: "TAC Tinted Red Lip Balm",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n6.jpg",
@@ -305,7 +305,7 @@ export const phonesData = [
 
   {
     id: 37,
-    model: "Micro Blusher",
+    model: "Neem Face Wash",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n7.jpg",
@@ -314,7 +314,7 @@ export const phonesData = [
 
   {
     id: 38,
-    model: "Micro Blusher",
+    model: "Huda Color Matte Lipstick",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n8.jpg",
@@ -322,7 +322,7 @@ export const phonesData = [
   },
   {
     id: 39,
-    model: "Micro Blusher",
+    model: "Huda Beauty Matte Lipstick",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n9.jpg",
@@ -331,7 +331,7 @@ export const phonesData = [
 
   {
     id: 40,
-    model: "Micro Blusher",
+    model: "Huda Beauty Matte Lipstick",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n10.jpg",
@@ -340,7 +340,7 @@ export const phonesData = [
 
   {
     id: 41,
-    model: "Micro Blusher",
+    model: "Perfect Touch Lipstick",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "n11.jpg",
