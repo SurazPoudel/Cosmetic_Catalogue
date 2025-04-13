@@ -534,6 +534,7 @@ export const phonesData = [
     image: "a11.jpg",
     qty: 0,
   },
+  //
  {
     id: 63,
     model: "Fogg Master Body Spray",
@@ -641,7 +642,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a25.jpg",
@@ -650,7 +651,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "PHY Turmeric Soap",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a26.jpg",
@@ -658,7 +659,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "PHY Neem Soap",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a27.jpg",
@@ -666,7 +667,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "PHY Vitamin C Soap",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a28.jpg",
@@ -931,29 +932,5 @@ export const phonesData = [
     image: "a59.jpg",
     qty: 0,
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 ];
