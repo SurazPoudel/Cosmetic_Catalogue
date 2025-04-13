@@ -374,7 +374,7 @@ export const phonesData = [
   },
   {
     id: 45,
-    model: "Nivea Body Lotion",
+    model: "Dove Recovery Mask",
     desc: "Softens and nourishes your skin, leaving it smooth and hydrated Nivea body lotion.",
     price: 1099,
     image: "a1.jpg",
@@ -390,7 +390,7 @@ export const phonesData = [
   },
   {
     id: 47,
-    model: "Sunisa Foundation Cream",
+    model: "Dove Conditioner",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price:0,
     image: "a2.jpg",
@@ -398,7 +398,7 @@ export const phonesData = [
   },
   {
     id: 48,
-    model: "Fogg Body Perfume",
+    model: "Dove Shampoo",
     desc: "Experience the luxury of Fogg Perfume, lasting freshness in every spray.",
     price: 1199,
     image: "a3.jpg",
@@ -406,7 +406,7 @@ export const phonesData = [
   },
   {
     id: 49,
-    model: "Nivea Body Lotion",
+    model: "Dove Scalp Tonic",
     desc: "Softens and nourishes your skin, leaving it smooth and hydrated Nivea body lotion.",
     price: 1099,
     image: "a4.jpg",
@@ -414,7 +414,7 @@ export const phonesData = [
   },
   {
     id: 50,
-    model: "Parachute Oil",
+    model: "",
     desc: "Provides deep nourishment, leaving your hair and skin soft and healthy parachute oil.",
     price: 1099,
     image: "a5.jpg",
@@ -422,7 +422,7 @@ export const phonesData = [
   },
   {
     id: 51,
-    model: "Sunisa Foundation Cream",
+    model: "Alainne Facewash Gel",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a6.jpg",
@@ -432,7 +432,7 @@ export const phonesData = [
 
   {
     id: 52,
-    model: "Nivea Shaving Foam",
+    model: "Alainne Facewash Gel",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a7.jpg",
@@ -440,7 +440,7 @@ export const phonesData = [
   },
   {
     id: 53,
-    model: "Nivea Shaving Foam",
+    model: "Moisturizing Cold Cream",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a8.jpg",
@@ -449,7 +449,7 @@ export const phonesData = [
 
   {
     id: 54,
-    model: "Micro Blusher",
+    model: "LAFZ Caffeine Soap",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a9.jpg",
@@ -519,7 +519,7 @@ export const phonesData = [
 
   {
     id: 62,
-    model: "Micro Blusher",
+    model: "Matrix Conditioner",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a10.jpg",
@@ -528,7 +528,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Bajaj Coconut Oil",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a11.jpg",
@@ -536,7 +536,7 @@ export const phonesData = [
   },
  {
     id: 63,
-    model: "Micro Blusher",
+    model: "Fogg Master Body Spray",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a12.jpg",
@@ -544,7 +544,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Cinthol Shave + Face Wash",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a13.jpg",
@@ -552,7 +552,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Livon Anti Frizz Serum",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a14.jpg",
@@ -560,7 +560,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "VHealth Intimate Wash",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a15.jpg",
@@ -568,7 +568,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Arata Anti Dandruff Shampoo",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a16.jpg",
@@ -576,7 +576,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Set Wet Perfume",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a17.jpg",
@@ -584,7 +584,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Set Wet Perfume",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a18.jpg",
@@ -592,7 +592,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "LAFZ Body Spray",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a19.jpg",
@@ -600,7 +600,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "LAFZ Body Spray",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a20.jpg",
@@ -608,7 +608,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "LAFZ Body Spray",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a21.jpg",
@@ -616,7 +616,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Nyle Liquid Hand Soap",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a22.jpg",
@@ -625,7 +625,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Plum Vitamin C Face wash",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a23.jpg",
@@ -633,7 +633,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Plum Nail Polish",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a24.jpg",
