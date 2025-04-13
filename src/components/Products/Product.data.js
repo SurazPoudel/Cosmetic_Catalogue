@@ -377,7 +377,7 @@ export const phonesData = [
     model: "Nivea Body Lotion",
     desc: "Softens and nourishes your skin, leaving it smooth and hydrated Nivea body lotion.",
     price: 1099,
-    image: "s4.jpg",
+    image: "a1.jpg",
     qty: 1,
   },
   {
@@ -393,7 +393,7 @@ export const phonesData = [
     model: "Sunisa Foundation Cream",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price:0,
-    image: "wipes.jpg",
+    image: "a2.jpg",
     qty: 6,
   },
   {
@@ -401,7 +401,7 @@ export const phonesData = [
     model: "Fogg Body Perfume",
     desc: "Experience the luxury of Fogg Perfume, lasting freshness in every spray.",
     price: 1199,
-    image: "wipes.jpg",
+    image: "a3.jpg",
     qty: 0,
   },
   {
@@ -409,7 +409,7 @@ export const phonesData = [
     model: "Nivea Body Lotion",
     desc: "Softens and nourishes your skin, leaving it smooth and hydrated Nivea body lotion.",
     price: 1099,
-    image: "1.jpg",
+    image: "a4.jpg",
     qty: 1,
   },
   {
@@ -417,7 +417,7 @@ export const phonesData = [
     model: "Parachute Oil",
     desc: "Provides deep nourishment, leaving your hair and skin soft and healthy parachute oil.",
     price: 1099,
-    image: "2.jpg",
+    image: "a5.jpg",
     qty: 1,
   },
   {
@@ -425,7 +425,7 @@ export const phonesData = [
     model: "Sunisa Foundation Cream",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "3.jpg",
+    image: "a6.jpg",
     qty: 6,
   },
   // ... (continue for other items)
@@ -435,7 +435,7 @@ export const phonesData = [
     model: "Nivea Shaving Foam",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "4.jpg",
+    image: "a7.jpg",
     qty: 6,
   },
   {
@@ -443,7 +443,7 @@ export const phonesData = [
     model: "Nivea Shaving Foam",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "4.jpg",
+    image: "a8.jpg",
     qty: 0,
   },
 
@@ -452,7 +452,7 @@ export const phonesData = [
     model: "Micro Blusher",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "5.jpg",
+    image: "a9.jpg",
     qty: 0,
   },
   {
@@ -522,7 +522,7 @@ export const phonesData = [
     model: "Micro Blusher",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "5.jpg",
+    image: "a10.jpg",
     qty: 0,
   },
 
@@ -531,9 +531,429 @@ export const phonesData = [
     model: "Micro Blusher",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "5.jpg",
+    image: "a11.jpg",
     qty: 0,
   },
+ {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a12.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a13.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a14.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a15.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a16.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a17.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a18.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a19.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a20.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a21.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a22.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a23.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a24.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a25.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a26.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a27.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a28.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a29.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a30.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a31.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a32.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a33.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a34.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a35.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a36.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a37.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a38.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a39.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a40.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a41.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "42.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a43.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a44.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a45.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a46.jpg",
+    qty: 0,
+  },
+
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a47.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a48.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a49.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a50.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a51.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a52.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a53.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a54.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a55.jpg",
+    qty: 0,
+  },
+
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a56.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a57.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a58.jpg",
+    qty: 0,
+  },
+  {
+    id: 63,
+    model: "Micro Blusher",
+    desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
+    price: 1299,
+    image: "a59.jpg",
+    qty: 0,
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 ];
