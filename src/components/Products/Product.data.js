@@ -775,7 +775,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Hair Oil",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a41.jpg",
@@ -783,16 +783,16 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Cold Cream",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
-    image: "42.jpg",
+    image: "a42.jpg",
     qty: 0,
   },
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Kotex Pro Health Pads",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a43.jpg",
@@ -800,7 +800,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Ajmal Essence",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a44.jpg",
@@ -809,7 +809,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Ajmal Essence",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a45.jpg",
@@ -817,7 +817,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Bacto-V Liquid Handwash",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a46.jpg",
@@ -827,7 +827,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Nivea Men Shaving Gel",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a47.jpg",
@@ -835,7 +835,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Kiss Beauty Eyeliner",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a48.jpg",
@@ -844,7 +844,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a49.jpg",
@@ -918,7 +918,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "TAC Aloevera Gel",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a58.jpg",
@@ -926,7 +926,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Fit Me Primer",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a59.jpg",
