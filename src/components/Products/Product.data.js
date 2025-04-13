@@ -675,7 +675,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Crayon Lip Balm",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a29.jpg",
@@ -683,7 +683,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: " Huda Matte Lip Balm",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a30.jpg",
@@ -692,7 +692,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Huda Matte Lip Balm",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a31.jpg",
@@ -700,7 +700,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Magic Lip Gloss",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a32.jpg",
@@ -708,7 +708,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Swiss Beauty Eye Primer",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a33.jpg",
@@ -716,7 +716,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Stick Highlighter",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a34.jpg",
@@ -725,7 +725,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Highlight Fashion Concelar",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a35.jpg",
@@ -734,7 +734,7 @@ export const phonesData = [
 
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Mirage Mascara",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a36.jpg",
@@ -742,7 +742,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Fit Me BB Cream",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a37.jpg",
@@ -750,7 +750,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Alainne Facewash Gel",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a38.jpg",
@@ -758,7 +758,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Alainne Facewash Gel",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a39.jpg",
@@ -766,7 +766,7 @@ export const phonesData = [
   },
   {
     id: 63,
-    model: "Micro Blusher",
+    model: "Alainne Facewash Gel",
     desc: "3 in 1 Air Cushion CC and BB Cream Foundation offers full coverage with a lightweight feel.",
     price: 1299,
     image: "a40.jpg",
