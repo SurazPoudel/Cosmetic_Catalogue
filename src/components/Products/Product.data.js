@@ -49,20 +49,226 @@ export const phonesData = [
   },
   {
     id: 7,
-    model: "Huda Beauty Primer",
+    model: "Carrot Rose Oil",
     desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
-    price: 130,
+    price: 400,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Hair Removal Spray",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 0,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "DR. Meinaier Oil",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 300,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Olive Oil Small",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 200,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Olive Oil Medium",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 400,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Olive Oil Large",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 500,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Angela Lip Balm",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 50,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+{
+    id: 7,
+    model: "Olive Oil Large",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 500,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "UnderArm Cream",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 310,
     image: "1.jpg",
     qty: 0,
   },
+
+  {
+    id: 7,
+    model: "Foot Cream",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 290,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+   {
+    id: 7,
+    model: "Lip Balm",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 290,
+    image: "1.jpg",
+    qty: 6,
+  },
+ {
+    id: 7,
+    model: "Vitamin E & C Body Cream",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 400,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+   {
+    id: 7,
+    model: "Vitamin E Moisturizer",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 400,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+   {
+    id: 7,
+    model: "DR. Meinaier Face Wash",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 270,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+   {
+    id: 7,
+    model: "DR. Meinaier Serum",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 280,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+   {
+    id: 7,
+    model: "DR. Meinaier Face Cream",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 350,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+
+   {
+    id: 7,
+    model: "OYAX 24K Gold Sheet Mask",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 325,
+    image: "1.jpg",
+    qty: 6,
+  },
+  {
+    id: 7,
+    model: "OYAX 24K Gold Sheet Mask",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 325,
+    image: "1.jpg",
+    qty: 6,
+  },
+
   {
     id: 8,
-    model: "Waterproof Concelear",
+    model: "Face Mask",
     desc: "Waterproof concealer that covers imperfections and evens out skin tone.",
     price: 410,
     image: "2.jpg",
     qty: 1,
   },
+  {
+    id: 7,
+    model: "Face Mask OYAX Vitamin C",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 325,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Facial Mask",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 325,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Face Mask Magic Moon",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 325,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+  {
+    id: 7,
+    model: "Keratin Hair Serum",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 260,
+    image: "1.jpg",
+    qty: 6,
+  },
+
+   {
+    id: 7,
+    model: "Promina Hair Serum",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price: 490,
+    image: "1.jpg",
+    qty: 6,
+  },
+   {
+    id: 7,
+    model: "Botox Serum",
+    desc: "High coverage primer with a flawless matte finish and long-lasting formula.",
+    price:270,
+    image: "1.jpg",
+    qty: 6,
+  },
+  
   {
     id: 9,
     model: "Huda Beauty Toning Face Serum",
